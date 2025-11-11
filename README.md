@@ -22,7 +22,7 @@ TWLGF is a speculative, transferable crypto-asset designed for exchange-based tr
 It does not grant ownership rights, revenue, or access to goods or services.
 
 The code provided here matches the verified contract available on  
-👉 [BscScan](https://bscscan.com/address/0x[YOUR_CONTRACT_ADDRESS]#code)
+👉 [BscScan](https://bscscan.com/address/0xA45D0f9337eF5539d77c41e968137C391d1d7704#code)
 
 ---
 
